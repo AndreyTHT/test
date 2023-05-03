@@ -16,6 +16,7 @@ public class Main {
         kto_to.printPerson();
         System.out.println("------------------------------------------------");
         kto_to.prettyPrintPerson();
-        
+
+        System.out.println("Successfully!");
     }
 }
