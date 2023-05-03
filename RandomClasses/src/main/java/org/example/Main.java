@@ -1,5 +1,6 @@
 package org.example;
 
+import org.example.classes.NewClass;
 import org.example.classes.Person;
 
 public class Main {
@@ -18,5 +19,9 @@ public class Main {
         kto_to.prettyPrintPerson();
 
         System.out.println("Successfully!");
+
+        NewClass x = new NewClass();
+
+        x.AAAA();
     }
 }
